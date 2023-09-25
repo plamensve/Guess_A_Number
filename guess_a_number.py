@@ -23,6 +23,4 @@ while True:
         print(f"Too Low")
 
 
-#----Finished
-#----Test in Linux
-#----Second test with linux
+#------Last test with linux
